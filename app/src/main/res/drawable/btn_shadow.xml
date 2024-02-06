@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#22000000" /> <!-- Color más fuerte para la sombra -->
+            <corners android:radius="8dp" /> <!-- Radio de las esquinas, ajusta según sea necesario -->
+        </shape>
+    </item>
+    <item android:top="10dp">
+        <shape>
+            <solid android:color="#44000000" /> <!-- Color de la sombra con mayor opacidad -->
+            <corners android:radius="8dp" /> <!-- Radio de las esquinas, ajusta según sea necesario -->
+        </shape>
+    </item>
+</layer-list>
+

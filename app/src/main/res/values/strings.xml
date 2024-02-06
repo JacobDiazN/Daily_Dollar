@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daily_DOLAR</string>
+    <string name="TextView_uf">Dolar del día:</string>
+    <string name="Button_consultar_uf">Valor del Dolar</string>
+    <string name="ButtonRegresar">Regresar</string>
+    <string name="ButtonListarBD">Listar BD</string>
+    <string name="ButtonEliminarDatos">Eliminar Datos BD</string>
+</resources>
